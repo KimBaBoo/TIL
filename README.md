@@ -7,3 +7,4 @@
 ### HTTP Methods
 - [HTTP Methods](http-methods/2024-05-15-http-methods.md)
 - [GET vs POST](http-methods/2024-05-15-get-vs-post.md)
+- [PATCH vs PUT](http-methods/2024-05-15-patch-vs-put.md)
