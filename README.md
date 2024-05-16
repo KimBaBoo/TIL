@@ -10,4 +10,4 @@
 - [PUT vs PATCH](http-methods/2024-05-15-patch-vs-put.md) : PUT과 PATCH 메서드의 차이점과 사용 예시를 비교합니다.
 
 ### HTTP Status Code
-- [HTTP 응답 코드](http-status-codes/2024-05-16-http-status-codes.md) : HTTP 응답 코드에 대해서 다룹니다.
+- [HTTP 응답 코드](http-status-code/2024-05-16-http-status-codes.md) : HTTP 응답 코드에 대해서 다룹니다.
