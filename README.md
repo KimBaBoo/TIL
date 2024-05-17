@@ -11,3 +11,6 @@
 
 ### HTTP Status Code
 - [HTTP 응답 코드](http-status-code/2024-05-16-http-status-codes.md) : HTTP 응답 코드에 대해서 다룹니다.
+
+### API
+- [API vs REST API vs RESTful API](api/api-vs-restful%20api.md) : API와 REST API 그리고 RESTful API의 차이점을 비교합니다.
