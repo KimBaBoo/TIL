@@ -14,3 +14,6 @@
 
 ### API
 - [API vs REST API vs RESTful API](api/api-vs-restful%20api.md) : API와 REST API 그리고 RESTful API의 차이점을 비교합니다.
+
+### Web Security
+- [Cookies vs Session](web-security/2024-05-18-cookies-vs-session.md) : Cookies와 Session의 차이점을 비교합니다.
