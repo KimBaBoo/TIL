@@ -8,6 +8,7 @@
 - [HTTP 메서드 개요](http-methods/2024-05-15-http-methods.md) : HTTP 메서드의 종류와 각각의 용도에 대해 다룹니다.
 - [GET vs POST](http-methods/2024-05-15-get-vs-post.md) : GET과 POST 메서드의 차이점과 사용 예시를 비교합니다.
 - [PUT vs PATCH](http-methods/2024-05-15-patch-vs-put.md) : PUT과 PATCH 메서드의 차이점과 사용 예시를 비교합니다.
+- [DELETE](http-methods/2024-05-20-delete-methods.md) : DELETE 메서드에 대해서 다룹니다.
 
 ### HTTP Status Code
 - [HTTP 응답 코드](http-status-code/2024-05-16-http-status-codes.md) : HTTP 응답 코드에 대해서 다룹니다.
