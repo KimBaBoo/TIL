@@ -21,3 +21,4 @@
 
 ### Database
 - [SQL vs NoSQL](database/2024-05-19-sql-vs-nosql.md) : SQL과 NoSQ의 차이점을 비교합니다.
+- [Transaction](database/2024-05-22-transaction.md) : Transaction에 대해서 다룹니다.
