@@ -25,7 +25,7 @@ SQL 트랜잭션은 데이터베이스 관리 시스템에서 데이터 무결�
 
 ### 트랜잭션 사용 예제
 
-```
+```sql
 BEGIN;
 
 UPDATE accounts SET balance = balance - 1000 WHERE account_id = 1;
@@ -36,7 +36,7 @@ COMMIT;
 
 위 예제는 ID가 1인 계좌에서 1000원을 인출하고, ID가 2인 계좌에 1000원을 입금하는 트랜잭션입니다.
 
-```
+```sql
 BEGIN;
 
 UPDATE accounts SET balance = balance - 1000 WHERE account_id = 1;
