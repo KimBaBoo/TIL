@@ -1,4 +1,4 @@
-# 2024-05-25: Kafka Producer
+# 2024-05-26: Kafka Producer
 
 Kafka Producer는 Apache Kafka 메시지 브로커 시스템에서 데이터를 생성하여 전송하는 역할을 합니다. 분산형 데이터 스트리밍 플랫폼인 Kafka에서 프로듀서는 데이터를 생성하여 특정 토픽으로 전송합니다. Kafka Producer의 개념과 사용 방법은 다음과 같습니다.
 
