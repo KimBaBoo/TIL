@@ -29,3 +29,4 @@
 
 ### Kafka
 - [Kafka Producer](kafka/2024-05-26-kafka-producer.md) : Kafka Producer에 대해서 다룹니다.
+- [Kafka Broker](kafka/2024-05-27-kafka-broker.md) : Kafka Broker에 대해서 다룹니다.
