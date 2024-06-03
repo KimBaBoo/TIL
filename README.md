@@ -38,3 +38,6 @@
 
 ### OAuth2.0
 - [OAuth 2.0 개요](oauth2.0/2024-06-02-overview.md) : OAuth 2.0의 기초 개요에 대해서 다룹니다.
+
+### CI/CD
+- [CI/CD](ci-cd/2024-06-03-ci-cd.md) : CI/CD에 대해서 다룹니다.
