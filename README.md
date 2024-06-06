@@ -47,3 +47,6 @@
 
 ### Kubernetes
 - [Kubernetes란?](Kubernetes/2024-06-05-kubernetes.md) : Kubernetes의 기본 개념에 대해서 다룹니다.
+
+### OS
+- [Linux란?](os/2024-06-06-linux.md) : Linux의 기본 개념에 대해서 다룹니다.
