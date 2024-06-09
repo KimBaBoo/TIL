@@ -18,6 +18,7 @@
 
 ### Web Security
 - [Cookies vs Session](web-security/2024-05-18-cookies-vs-session.md) : Cookies와 Session의 차이점을 비교합니다.
+- [JWT](web-security/2024-06-09-jwt.md) : JWT (JSON Web Token)의 개념에 대해서 다룹니다.
 
 ### Database
 - [SQL vs NoSQL](database/2024-05-19-sql-vs-nosql.md) : SQL과 NoSQ의 차이점을 비교합니다.
