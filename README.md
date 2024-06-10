@@ -10,6 +10,7 @@
 - [PUT vs PATCH](http/2024-05-15-patch-vs-put.md) : PUT과 PATCH 메서드의 차이점과 사용 예시를 비교합니다.
 - [DELETE](http/2024-05-20-delete-methods.md) : DELETE 메서드에 대해서 다룹니다.
 - [HTTP 응답 코드](http/2024-05-16-http-status-codes.md) : HTTP 응답 코드에 대해서 다룹니다.
+- [HTTP 헤더](http/2024-06-10-http-headers.md) : HTTP 헤더에 대해서 다룹니다.
 
 ### API
 - [API vs REST API vs RESTful API](api/2024-05-17-api-vs-restful%20api.md) : API와 REST API 그리고 RESTful API의 차이점을 비교합니다.
