@@ -51,3 +51,6 @@
 ### OS
 - [Linux란?](os/2024-06-06-linux.md) : Linux의 기본 개념에 대해서 다룹니다.
 - [Linux 배포판의 종류](os/2024-06-07-linux-distributions.md) : Linux 배포판들의 종류에 대해서 다룹니다.
+
+### Elastic Search
+- [Elastic Search란?](elastic-search/2024-06-12-elastic-search.md) : Elastic Search의 기본 개념에 대해서 다룹니다.
