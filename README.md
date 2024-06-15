@@ -54,3 +54,6 @@
 
 ### Elastic Search
 - [Elastic Search란?](elastic-search/2024-06-12-elastic-search.md) : Elastic Search의 기본 개념에 대해서 다룹니다.
+
+### Data Formats
+- [XML vs Json](data-format/2024-06-15-xml-vs-json.md) : XML과 JSON의 차이점에 대해서 다룹니다.
