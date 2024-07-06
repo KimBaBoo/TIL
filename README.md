@@ -34,7 +34,7 @@
 ### Kafka
 - [Kafka Producer](kafka/2024-05-26-kafka-producer.md) : Kafka Producer에 대해서 다룹니다.
 - [Kafka Broker](kafka/2024-05-27-kafka-broker.md) : Kafka Broker에 대해서 다룹니다.
-- [Kafka Consumer](kafka/2024-05-28-kafka-consumer.md_) : Kafka Consumer에 대해서 다룹니다.
+- [Kafka Consumer](kafka/2024-05-28-kafka-consumer.md) : Kafka Consumer에 대해서 다룹니다.
 
 ### OAuth2.0
 - [OAuth 2.0 개요](oauth2.0/2024-06-02-overview.md) : OAuth 2.0의 기초 개요에 대해서 다룹니다.
